@@ -1,0 +1,6 @@
+Yilan classı içerisinde ki resimYukle fonksiyonunda görsellerin yolları bilgisarldan bilgisayara farklılık gösterebilir .
+Bu yüzden öncelikle resim dosya uzantıları düzenlenmelidir.
+
+
+
+iletişim : arda.akinci12@outlook.com
